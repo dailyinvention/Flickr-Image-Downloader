@@ -1,0 +1,28 @@
+{
+  "name": "flickr-image-downloader",
+  "version": "1.0.0",
+  "description": "A Node.js app that downloads random images from Flickr. Used for the new dailyinvention.com web site.",
+  "main": "flicker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dailyinvention/Flickr-Image-Downloader.git"
+  },
+  "keywords": [
+    "flickr",
+    "random",
+    "image",
+    "downloader"
+  ],
+  "author": "Stefan Holodnick",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/dailyinvention/Flickr-Image-Downloader/issues"
+  },
+  "homepage": "https://github.com/dailyinvention/Flickr-Image-Downloader#readme",
+  "dependencies": {
+    "oauth-1.0a": "^2.0.0"
+  }
+}
